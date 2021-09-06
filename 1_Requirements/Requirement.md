@@ -1,1 +1,4 @@
-
+- The first step is to provide the total number of passengers and submit all the necessary details of the passengers.
+- The next step is to enter the source and destination.
+- A list of available trains will appear. Among them, the user has to choose one.
+- The ticket value will be evaluated.
