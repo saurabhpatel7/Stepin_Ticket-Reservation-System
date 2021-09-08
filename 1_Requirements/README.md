@@ -67,15 +67,13 @@ O(N), the amount of memory needed to run the algorithm i.e, space complexity.
        Room Deallocation.
        Billing (Total billing for type of room taken and food ordered).
 
-## SWOT Analysis
 
-<img width="750" alt="SWOT" src="https://user-images.githubusercontent.com/62166597/114440231-83727880-9be7-11eb-8c3c-04c4cf9fcc9f.PNG">
 
 
 ## 4W's and 1'H
    
    ### Who:
-           Hotel Management System is a software solution by providing high-quality services. This system is used for any kind of hotel business
+           Restaurant Management System is a software solution by providing high-quality services. This system is used for any kind of hotel business
            whether it be small scale or large scale.
     
    ### What:
