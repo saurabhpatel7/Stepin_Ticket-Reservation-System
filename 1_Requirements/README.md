@@ -1,12 +1,12 @@
-# HOTEL MANAGEMENT SYSTEM
+# Restaurants Management System 
 
 #  Requirements
 
 ## Introduction
 
-### What is Hotel Management System?
+### What is restaurants Management System?
 
-The hotel management system is a web based application that allows the hotel manager to
+The restaurant management system is a web based application that allows the hotel manager to
 handle all hotel activities online. Interactive GUI and the ability to manage various hotel bookings
 and rooms make this system very flexible and convenient. To manage the entire activities manually on paper is very time taken process. This
 application provides flexibility to manage the entire system from a single online
@@ -25,7 +25,7 @@ impact on increasing satisfaction of customers.
 
 ### Benefits
 
-Hotel Management System enables the customers for online booking of rooms and makes it easy for the manager to keep logs.Few benefits are below-
+Restaurant Management System enables the customers for online booking of rooms and makes it easy for the manager to keep logs.Few benefits are below-
 
 ### Advance booking/Pre-booking made easy
 
@@ -59,7 +59,7 @@ O(N), the amount of memory needed to run the algorithm i.e, space complexity.
 ![defining system](https://user-images.githubusercontent.com/62166597/114381286-931e9c80-9ba8-11eb-8995-0813aa988dba.png)
 
 ## Explanation
-  ### Hotel Management Features
+  ### Restaurants Management Features
 
        Features of the room (like type of the room, type of food etc.).
        Customer details (Name, Address, phone number and period of stay).
