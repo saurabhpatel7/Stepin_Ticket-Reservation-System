@@ -22,7 +22,7 @@
 
 |PS No. |  Name   |    Features    |No Test Cases|Test Case Pass|
 |:---:|:---:|:---:|:---:|:---:|
-|` 99006264` | Saurabh Patel  | Complete project   | 15   | 15     |
+|` 99006264` | Saurabh Patel  | Complete project   | 8   | 8     |
 
 
 ## Challenges Faced and How Was It Overcome
